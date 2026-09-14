@@ -23,6 +23,8 @@ The old sample-data upload action and Firestore menu subscription have been remo
 
 The responsive "Savoria" interface uses deep warm charcoal, rich amber-gold accents, elevated dark cards, clean typography, and a modern navigation bar. The system covers login, registration, menu, dish details, bag, favorites, account, and account subpages. Email authentication and password reset use Firebase. Checkout remains visibly unavailable until an order/payment backend is implemented. Existing notification and security settings remain UI-only controls.
 
+For full illustrated specifications of each screen, see the [UI Screen Documentation](docs/UI_SCREEN_DOCUMENTATION.md).
+
 ## Verify
 
 ```sh
